@@ -1,0 +1,28 @@
+{
+    "id": "437EC6FB",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1750055632610.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "cfb3a86f03bf4a619c1b38904c9c77be",
+        "name": "graf4",
+        "title": "graf4",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 13511039406768175,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1750055632610,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tendencias del Cambio Climático Global",
+    "section": "",
+    "text": "Este sitio muestra un análisis de la evolución de la temperatura media en varios países entre 1900 y 2015. Se utilizaron datos públicos de Berkeley Earth, disponibles en Kaggle.\n\n\nEl cambio climático es uno de los fenómenos más urgentes de nuestra época. Sus impactos se reflejan en el aumento de temperaturas, cambios en los patrones climáticos y consecuencias sociales y ambientales. El presente análisis examina cómo ha variado la temperatura promedio en diferentes países del mundo en los últimos 100 años.\nEl objetivo es:\n\nObservar si hay tendencias claras de aumento de temperatura.\nComparar la evolución entre países de diferentes continentes.\nAnalizar un año reciente para ver qué países presentan temperaturas más altas.\n\n\n\n\n\n\nFigura 1. Cambio climatico. Fuente: climate.nasa.gov\n\n\n\n\nEl conjunto de datos utilizado proviene de Berkeley Earth y contiene registros de temperatura promedio mensual por país desde el siglo XVIII. Para este análisis se consideraron solo los datos desde 1900 hasta 2015, y se seleccionaron cinco países: Costa Rica, Estados Unidos, Brasil, Alemania e India.\nLas variables principales utilizadas fueron: - dt: Fecha de medición. - AverageTemperature: Temperatura media mensual (en grados Celsius). - Country: Nombre del país.\nLa columna dt fue procesada para extraer el año, permitiendo así análisis agregados anuales.\n\n\n\n\n¿Ha habido un aumento sostenido en la temperatura media global?\n¿Qué países han experimentado los mayores aumentos?\n¿Cómo se comparan entre sí los países tropicales, templados y continentales?\n\n\n\n\n\n\n\n\n\n\nEl gráfico muestra la distribución de la temperatura media anual en cada país entre 1900 y 2015. Se observa que Costa Rica y Brasil, ubicados en zonas tropicales, presentan temperaturas más altas y con menor variabilidad. En contraste, Alemania y Estados Unidos tienen una distribución más amplia, reflejando una mayor variación estacional a lo largo del tiempo. India se posiciona entre ambos extremos, lo que sugiere una combinación de factores tropicales y continentales.\n\n\n\n\n\n\nEl gráfico muestra que los países tropicales presentan temperaturas consistentemente más altas en comparación con las zonas templadas y continentales. Además, se observa que las zonas templadas tienen una mayor variabilidad, mientras que la zona continental (representada por India) tiene valores intermedios.\n\n\n\nClimate change: Earth surface temperature data. (2017, 1 mayo). Kaggle. https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data\nWard, K., & Ward, K. (2025, 6 febrero). Climate change - NASA Science. NASA Science. https://science.nasa.gov/climate-change/"
+  },
+  {
+    "objectID": "index.html#introducción",
+    "href": "index.html#introducción",
+    "title": "Tendencias del Cambio Climático Global",
+    "section": "",
+    "text": "El cambio climático es uno de los fenómenos más urgentes de nuestra época. Sus impactos se reflejan en el aumento de temperaturas, cambios en los patrones climáticos y consecuencias sociales y ambientales. El presente análisis examina cómo ha variado la temperatura promedio en diferentes países del mundo en los últimos 100 años.\nEl objetivo es:\n\nObservar si hay tendencias claras de aumento de temperatura.\nComparar la evolución entre países de diferentes continentes.\nAnalizar un año reciente para ver qué países presentan temperaturas más altas."
+  },
+  {
+    "objectID": "index.html#imagen-relacionada",
+    "href": "index.html#imagen-relacionada",
+    "title": "Tendencias del Cambio Climático Global",
+    "section": "",
+    "text": "Figura 1. Cambio climatico. Fuente: climate.nasa.gov"
+  },
+  {
+    "objectID": "index.html#descripción-del-conjunto-de-datos",
+    "href": "index.html#descripción-del-conjunto-de-datos",
+    "title": "Tendencias del Cambio Climático Global",
+    "section": "",
+    "text": "El conjunto de datos utilizado proviene de Berkeley Earth y contiene registros de temperatura promedio mensual por país desde el siglo XVIII. Para este análisis se consideraron solo los datos desde 1900 hasta 2015, y se seleccionaron cinco países: Costa Rica, Estados Unidos, Brasil, Alemania e India.\nLas variables principales utilizadas fueron: - dt: Fecha de medición. - AverageTemperature: Temperatura media mensual (en grados Celsius). - Country: Nombre del país.\nLa columna dt fue procesada para extraer el año, permitiendo así análisis agregados anuales."
+  },
+  {
+    "objectID": "index.html#preguntas-que-se-intentan-responder",
+    "href": "index.html#preguntas-que-se-intentan-responder",
+    "title": "Tendencias del Cambio Climático Global",
+    "section": "",
+    "text": "¿Ha habido un aumento sostenido en la temperatura media global?\n¿Qué países han experimentado los mayores aumentos?\n¿Cómo se comparan entre sí los países tropicales, templados y continentales?"
+  },
+  {
+    "objectID": "index.html#datos-y-gráficos",
+    "href": "index.html#datos-y-gráficos",
+    "title": "Tendencias del Cambio Climático Global",
+    "section": "",
+    "text": "El gráfico muestra la distribución de la temperatura media anual en cada país entre 1900 y 2015. Se observa que Costa Rica y Brasil, ubicados en zonas tropicales, presentan temperaturas más altas y con menor variabilidad. En contraste, Alemania y Estados Unidos tienen una distribución más amplia, reflejando una mayor variación estacional a lo largo del tiempo. India se posiciona entre ambos extremos, lo que sugiere una combinación de factores tropicales y continentales.\n\n\n\n\n\n\nEl gráfico muestra que los países tropicales presentan temperaturas consistentemente más altas en comparación con las zonas templadas y continentales. Además, se observa que las zonas templadas tienen una mayor variabilidad, mientras que la zona continental (representada por India) tiene valores intermedios."
+  },
+  {
+    "objectID": "index.html#referencias",
+    "href": "index.html#referencias",
+    "title": "Tendencias del Cambio Climático Global",
+    "section": "",
+    "text": "Climate change: Earth surface temperature data. (2017, 1 mayo). Kaggle. https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data\nWard, K., & Ward, K. (2025, 6 febrero). Climate change - NASA Science. NASA Science. https://science.nasa.gov/climate-change/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
